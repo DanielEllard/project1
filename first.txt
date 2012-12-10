@@ -1,6 +1,6 @@
-Here is a file of text.
+Here is a file of text.  It has been here.
 
 There's nothing really interesting here.
 
-What will happen to it, however, might be.
+  What will happen to it, however, might be.  
 
