@@ -1,4 +1,4 @@
-Here is a file of text.  It has been here.
+Here is a file of text.  It has been here.  Ha.
 
 There's nothing particularly interesting here.
 
